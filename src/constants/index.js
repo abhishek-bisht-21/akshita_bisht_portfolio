@@ -56,7 +56,7 @@ export const PROJECTS = [
     title: "Pratham Education Reports",
     image: project4,
     description:
-      "4.They have grit and a passion to live on despite the odd and challenging circumstances. Read the two stories from Pratham Education. ",
+      "They have grit and a passion to live on despite the odd and challenging circumstances. Read the two stories from Pratham Education. ",
     link: "https://drive.google.com/file/d/1lUmI3vcyFLc1xOEw73NDwtgrwme5fzP_/view"
   }
 ];
