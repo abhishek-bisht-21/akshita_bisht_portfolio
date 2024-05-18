@@ -2,7 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.png";
-import project5 from "../assets/projects/project-5.jpg";
+import project5 from "../assets/projects/Project-5.jpg";
 
 
 export const HERO_CONTENT = `A conscientious and skilled individual with experience in the field of education, research, and writing. I am passionate about crafting content on topics that resonate with the society. My unique abilities mastered through reading and writing on various topics are intricately embeded in my work. `;
@@ -34,7 +34,15 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: " Digital Content- Published in The New Leam ",
+    title: "Good academic grades over students’ mental and physical health. Why?",
+    image: project5,
+    description:
+      "With the declaration of board exam results, students fall into a spiral of one entrance exam after another. Hence, the current situation demands more attention to the mental and physical health of students.",
+    link: "https://medium.com/@akshita.bisht0821/good-academic-grades-over-students-health-why-d389764718cb"
+  },
+
+  {
+    title: "The New Leam ",
     image: project1,
     description:
       "School education does not just comprise higher grades and standardized testing of subjects but it is much more complex and demands attention toward the students’ social-emotional learning and how mental well-being leads to the overall holistic development of students",
@@ -61,13 +69,6 @@ export const PROJECTS = [
       "They have grit and a passion to live on despite the odd and challenging circumstances. Read the two stories from Pratham Education. ",
     link: "https://drive.google.com/file/d/1lUmI3vcyFLc1xOEw73NDwtgrwme5fzP_/view"
   },
-   {
-    title: "Good academic grades over students’ mental and physical health. Why?",
-    image: project5,
-    description:
-      "With the declaration of board exam results, students fall into a spiral of one entrance exam after another. Hence, the current situation demands more attention to the mental and physical health of students.",
-    link: "https://medium.com/@akshita.bisht0821/good-academic-grades-over-students-health-why-d389764718cb"
-  }
 ];
 
 export const CONTACT = {
